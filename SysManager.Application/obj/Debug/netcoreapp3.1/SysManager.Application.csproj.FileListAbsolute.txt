@@ -1,0 +1,9 @@
+C:\Curso\SysManager\SysManager.Application\bin\Debug\netcoreapp3.1\SysManager.Application.deps.json
+C:\Curso\SysManager\SysManager.Application\bin\Debug\netcoreapp3.1\SysManager.Application.dll
+C:\Curso\SysManager\SysManager.Application\bin\Debug\netcoreapp3.1\SysManager.Application.pdb
+C:\Curso\SysManager\SysManager.Application\obj\Debug\netcoreapp3.1\SysManager.Application.csprojAssemblyReference.cache
+C:\Curso\SysManager\SysManager.Application\obj\Debug\netcoreapp3.1\SysManager.Application.csproj.CoreCompileInputs.cache
+C:\Curso\SysManager\SysManager.Application\obj\Debug\netcoreapp3.1\SysManager.Application.AssemblyInfoInputs.cache
+C:\Curso\SysManager\SysManager.Application\obj\Debug\netcoreapp3.1\SysManager.Application.AssemblyInfo.cs
+C:\Curso\SysManager\SysManager.Application\obj\Debug\netcoreapp3.1\SysManager.Application.dll
+C:\Curso\SysManager\SysManager.Application\obj\Debug\netcoreapp3.1\SysManager.Application.pdb
